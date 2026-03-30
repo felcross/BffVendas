@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.felcross.bff.api.controller.ProdutoBffControllerTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2026-03-30T17:53:33.204Z" hostname="DESKTOP-DIFT32I" time="2.43">
+  <properties/>
+  <testcase name="Deve atualizar estoque via PATCH" classname="com.felcross.bff.api.controller.ProdutoBffControllerTest" time="2.175"/>
+  <testcase name="Deve cadastrar um produto com sucesso" classname="com.felcross.bff.api.controller.ProdutoBffControllerTest" time="0.222"/>
+  <testcase name="Deve buscar produto por ID" classname="com.felcross.bff.api.controller.ProdutoBffControllerTest" time="0.03"/>
+  <system-out><![CDATA[14:53:34.895 [Test worker] INFO org.springframework.validation.beanvalidation.OptionalValidatorFactoryBean -- Failed to set up a Bean Validation provider: jakarta.validation.NoProviderFoundException: Unable to create a Configuration, because no Jakarta Validation provider could be found. Add a provider like Hibernate Validator (RI) to your classpath.
+14:53:35.250 [Test worker] INFO org.springframework.mock.web.MockServletContext -- Initializing Spring TestDispatcherServlet ''
+14:53:35.250 [Test worker] INFO org.springframework.test.web.servlet.TestDispatcherServlet -- Initializing Servlet ''
+14:53:35.256 [Test worker] INFO org.springframework.test.web.servlet.TestDispatcherServlet -- Completed initialization in 4 ms
+14:53:35.386 [Test worker] INFO org.springframework.validation.beanvalidation.OptionalValidatorFactoryBean -- Failed to set up a Bean Validation provider: jakarta.validation.NoProviderFoundException: Unable to create a Configuration, because no Jakarta Validation provider could be found. Add a provider like Hibernate Validator (RI) to your classpath.
+14:53:35.394 [Test worker] INFO org.springframework.mock.web.MockServletContext -- Initializing Spring TestDispatcherServlet ''
+14:53:35.394 [Test worker] INFO org.springframework.test.web.servlet.TestDispatcherServlet -- Initializing Servlet ''
+14:53:35.394 [Test worker] INFO org.springframework.test.web.servlet.TestDispatcherServlet -- Completed initialization in 0 ms
+14:53:35.611 [Test worker] INFO org.springframework.validation.beanvalidation.OptionalValidatorFactoryBean -- Failed to set up a Bean Validation provider: jakarta.validation.NoProviderFoundException: Unable to create a Configuration, because no Jakarta Validation provider could be found. Add a provider like Hibernate Validator (RI) to your classpath.
+14:53:35.625 [Test worker] INFO org.springframework.mock.web.MockServletContext -- Initializing Spring TestDispatcherServlet ''
+14:53:35.625 [Test worker] INFO org.springframework.test.web.servlet.TestDispatcherServlet -- Initializing Servlet ''
+14:53:35.625 [Test worker] INFO org.springframework.test.web.servlet.TestDispatcherServlet -- Completed initialization in 0 ms
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
