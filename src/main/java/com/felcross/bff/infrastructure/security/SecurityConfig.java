@@ -50,7 +50,9 @@ public class SecurityConfig {
         configuration.setAllowedOrigins(List.of(
                 "http://localhost:5173",
                 "http://localhost:3000",
-                "http://127.0.0.1:5173"
+                "http://127.0.0.1:5173",
+                "http://31.97.93.221"
+
         ));
 
         // Permite TODOS os métodos e cabeçalhos para evitar erros de Preflight
